@@ -1,2 +1,2 @@
-# CodeForceSolve
-All my CodeForce's Solve 
+# CodeForcesSolve
+All my CodeForces's Solve 
